@@ -1,0 +1,90 @@
+﻿2019-01-24 17:18:40.076 INFO  DefaultFactory Logging to 'D:\ProjectCode\on-premises_core_6\Store.ECommerce\App_Data\' with level Info
+2019-01-24 17:18:40.350 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 17:18:40.388 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 17:18:40.417 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Store.ECommerce' endpoint will be purged on startup.
+2019-01-24 17:18:40.462 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 17:18:40.481 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 17:18:40.499 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 18:27:24.539 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 18:27:24.799 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 18:27:24.841 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 18:27:24.870 WARN  NServiceBus.StartableEndpoint All queues owned by the 'Store.ECommerce' endpoint will be purged on startup.
+2019-01-24 18:27:24.905 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 18:27:24.933 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 18:27:24.965 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 19:04:10.181 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 19:04:10.471 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 19:04:10.505 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 19:04:10.534 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 19:04:10.569 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 19:04:10.592 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 19:04:10.610 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 19:57:34.314 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 19:57:34.591 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 19:57:34.630 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 19:57:34.664 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 19:57:34.705 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 19:57:34.726 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 19:57:34.747 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 20:15:57.489 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 20:15:57.751 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 20:15:57.791 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 20:15:57.822 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 20:15:57.863 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 20:15:57.882 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 20:15:57.902 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 20:16:52.364 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 20:16:52.653 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 20:16:52.692 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 20:16:52.721 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 20:16:52.762 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 20:16:52.788 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 20:16:52.823 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:18:18.492 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 21:18:18.785 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 21:18:18.827 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 21:18:18.859 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 21:18:18.902 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:18:18.922 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:18:18.945 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:32:35.287 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 21:32:35.561 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 21:32:35.604 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 21:32:35.637 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 21:32:35.680 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:32:35.700 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:32:35.721 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:36:54.200 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 21:36:54.488 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 21:36:54.535 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 21:36:54.568 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 21:36:54.610 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:36:54.634 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:36:54.664 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:37:34.013 INFO  DefaultFactory Logging to 'D:\ProjectCode\BookingSystem\Store.ECommerce\App_Data\' with level Info
+2019-01-24 21:37:34.304 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '1/24/2019'
+
+2019-01-24 21:37:34.352 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-2BQ44E3\water' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "DESKTOP-2BQ44E3\water" /add
+2019-01-24 21:37:34.393 WARN  NServiceBus.StartableEndpoint All queues owned by the 'BookingPortal' endpoint will be purged on startup.
+2019-01-24 21:37:34.434 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:37:34.451 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2019-01-24 21:37:34.468 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.

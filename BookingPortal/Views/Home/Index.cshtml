@@ -1,0 +1,96 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+@section head{
+    <script src="~/Content/js/product.js"></script>
+}
+
+<div>
+    <fieldset>
+        <legend>Booking details</legend>
+        <form name="productsList">
+            <table class="table table-hover">
+                <tr>
+                    <td>
+                        <h5>Name</h5>
+                        <input required="required" type="text" ng-model="bookingDetail.Name">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h5>Phone</h5>
+                        <input required="required" type="text" ng-model="bookingDetail.Phone">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h5>Email</h5>
+                        <input required="required" type="text" ng-model="bookingDetail.Email">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h5>Check in date</h5>
+                        <input required="required" type="date" ng-model="bookingDetail.CheckInDatetime">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <h5>Check out date</h5>
+                        <input required="required" type="date" ng-model="bookingDetail.CheckOutDatetime">
+                    </td>
+                </tr>
+            </table>
+
+            <button style="margin-bottom: 50px;" ng-click="placeBooking()" class="btn btn-primary">Place Booking</button>
+         
+            <div class="alert alert-error" ng-show="errorMessage">
+                <span class="label label-important">Booking failed</span> {{errorMessage}}
+            </div>
+        </form>
+    </fieldset>
+</div>
+<div>
+    <div class="col-md-6">
+        <fieldset>
+            <legend>List of bookings</legend>
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Phone</th>
+                        <th>Email</th>
+                        <th>Check In</th>
+                        <th>Check Out</th>
+                        <th>Status</th>
+                        <th>&nbsp;</th>
+                        <th>&nbsp;</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-hide="bookings.length > 0">
+                        <td colspan="9">
+                            No booking yet, place a booking above
+                        </td>
+                    </tr>
+                    <tr ng-repeat="booking in bookings">
+                        <td>{{booking.number}}</td>
+                        <td>{{booking.name}}</td>
+                        <td>{{booking.phone}}</td>
+                        <td>{{booking.email}}</td>
+                        <td>{{booking.checkIn | date}}</td>
+                        <td>{{booking.checkOut | date}}</td>
+                        <td>{{booking.status}}</td>
+                        <td><button type="button" ng-show="booking.status == 'Booked' || booking.status == 'CheckedIn'" ng-click="cancelBooking(booking.number)" class="btn btn-small btn-danger">Cancel</button></td>
+                        <td><button type="button" ng-show="booking.status == 'Booked'" ng-click="checkIn(booking.number)" class="btn btn-small">Check In</button></td>
+                        <td><button type="button" ng-show="booking.status == 'CheckedIn'" ng-click="checkOut(booking.number)" class="btn btn-small">Check Out</button></td>
+                    </tr>
+                </tbody>
+            </table>
+        </fieldset>
+    </div>
+</div>
+
